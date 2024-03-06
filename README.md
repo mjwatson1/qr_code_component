@@ -29,8 +29,8 @@ This is a small project for a basic QR code component.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - mattwebdev.net
+- Frontend Mentor -https://www.frontendmentor.io/profile/mjwatson1
 
 
 
