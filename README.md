@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 - [Overview](#overview)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -21,6 +20,7 @@ This is a small project for a basic QR code component.
 - CSS3 custom properties
 
 ## Author
+- Matt Watson
 - Website - mattwebdev.net
 - Frontend Mentor -https://www.frontendmentor.io/profile/mjwatson1
 
