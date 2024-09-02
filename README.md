@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is a small project for a basic QR code component.
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/mjwatson1/qr_code_component)
 - Live Site URL: https://mjwatson1.github.io/qr_code_component
 
 ### Built with
