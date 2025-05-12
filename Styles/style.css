@@ -22,6 +22,7 @@ body {
   box-shadow: 0 12px 12px rgba(0, 0, 0, 0.1);
   width: 320px;
   padding: 1.6rem 1.6rem 4rem 1.6rem;
+  margin-top: 220px;
 }
 
 .card_img {
