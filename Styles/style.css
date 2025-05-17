@@ -4,44 +4,45 @@
   box-sizing: border-box;
 }
 
-html {
-  font-size: 62.5%;
+body {
+  align-items: center;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  font-family: Outfit;
+  height: 100vh;
+  justify-content: center;
 }
 
-body {
-  background-color: hsl(212, 45%, 89%);
-  font-family: Outfit;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-}
 .card {
   background-color: white;
   border-radius: 20px;
   box-shadow: 0 12px 12px rgba(0, 0, 0, 0.1);
-  width: 320px;
-  padding: 1.6rem 1.6rem 4rem 1.6rem;
   margin-top: 220px;
+  padding: 1.6rem 1.6rem 4rem 1.6rem;
+  width: 320px;
 }
 
 .card_img {
   border-radius: 12px;
   display: block;
-  width: 100%;
   margin-bottom: 2.5rem;
+  width: 100%;
+}
+
+html {
+  font-size: 62.5%;
 }
 
 h2 {
   font-size: 2.2rem;
-  text-align: center;
   margin-bottom: 1.6rem;
+  text-align: center;
 }
 
 p {
   color: #7b879d;
   font-size: 1.5rem;
-  text-align: center;
-  width: 256px;
   margin: 0 auto;
+  text-align: center;
+  width: 256px;  
 }
